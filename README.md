@@ -1,5 +1,5 @@
 <!-- Animated gradient wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=200&section=header&text=Sreerag%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Backend%20Engineer%20%7C%20SDE%20Aspirant&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=200&section=header&text=Sreerag%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%2B%20Backend%20Engineer%20%7C%20SDE%20Aspirant&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Final+Year+CSE+(CPS)+%40+VIT+Chennai;Building+Event-Driven+Serverless+Systems+on+AWS;Infrastructure-as-Code+%7C+AWS+CDK;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+to+SDE+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
@@ -132,8 +132,6 @@ Fully responsive portfolio built with reusable **React.js** components and moder
 <p align="center">
   <img src="https://raw.githubusercontent.com/sreeragr1/sreeragr1/output/github-contribution-grid-snake.svg" />
 </p>
-
-> ℹ️ This animated snake eats your contribution graph — it auto-updates daily. See the setup note below (one-time GitHub Actions config) to activate it on your account.
 
 ---
 
